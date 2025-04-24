@@ -1,0 +1,10 @@
+[project]
+name = "classworkshop"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "pygments>=2.19.1",
+    "streamlit-ace>=0.1.1",
+    "streamlit>=1.44.1",
+]
